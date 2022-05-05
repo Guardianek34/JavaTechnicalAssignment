@@ -1,0 +1,1 @@
+java -jar app.jar --config=https://github.com/relayr/pdm-test/blob/master/sensors.yml
